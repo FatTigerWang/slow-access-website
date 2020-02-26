@@ -7,4 +7,5 @@ gitlab.com,
 jenkins.io,
 teamviewer.com,
 vuejs.org,
+w.org,
 wordpress.org
